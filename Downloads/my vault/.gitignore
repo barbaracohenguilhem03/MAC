@@ -1,0 +1,15 @@
+# Obsidian: estado da interface e caches/logs de plugins
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/console.log*
+.obsidian/plugins/*/scrollback/
+.obsidian/plugins/*/*.bak
+.obsidian/plugins/goko/cache.json
+.trash/
+
+# macOS / Node
+.DS_Store
+node_modules/
+
+# Nota com chaves de API (ver o aviso dentro dela)
+Inbox/First Note.md

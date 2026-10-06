@@ -1,3 +1,10 @@
+---
+projeto: D47 - Project Solitaire
+atualizado: 2026-10-06
+tags:
+  - d47
+---
+
 # D47 // Project Solitaire
 
 > **Atelier & Co-Conspirador no Diamond District**
@@ -33,6 +40,6 @@ O usuário é o artífice e financiador: forja peças exclusivas de alta joalher
 
 ## 3. Estrutura de Notas no Vault
 
-- [[01 - D47 Partner API Spec]] — Especificação técnica da infraestrutura de liquidação D47.
-- [[02 - Roadmap e Capítulos]] — O plano capítulo a capítulo da experiência.
-- [[03 - Decisões e Histórico]] — Registro de pivots, decisões de design e evolução do projeto.
+- [[Projetos/D47 - Project Solitaire/01 - D47 Partner API Spec|01 - D47 Partner API Spec]] — Especificação técnica da infraestrutura de liquidação D47.
+- [[Projetos/D47 - Project Solitaire/02 - Roadmap e Capítulos|02 - Roadmap e Capítulos]] — O plano capítulo a capítulo da experiência.
+- [[Projetos/D47 - Project Solitaire/03 - Decisões e Histórico|03 - Decisões e Histórico]] — Registro de pivots, decisões de design e evolução do projeto.
