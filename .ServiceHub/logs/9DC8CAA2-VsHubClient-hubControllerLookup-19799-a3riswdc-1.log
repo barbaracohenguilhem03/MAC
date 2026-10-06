@@ -1,0 +1,8 @@
+﻿09/30/2026 23:57:59 Brasilia Standard Time : Information : Local timezone is (UTC-03:00) Brasilia Standard Time (São Paulo)
+09/30/2026 23:57:59 Brasilia Standard Time : Information : Acquiring semaphore to try to start the Controller.
+09/30/2026 23:57:59 Brasilia Standard Time : Information : Beginning to try to start the Controller.
+09/30/2026 23:57:59 Brasilia Standard Time : Information : Starting hub controller
+09/30/2026 23:57:59 Brasilia Standard Time : Information : Setting environment variable 'ServiceHubCurrentOsLocale' to 'en' in the "/Users/MAC/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-controller.darwin-x64/Microsoft.VisualStudio.Code.ServiceController" process.
+09/30/2026 23:57:59 Brasilia Standard Time : Information : Setting environment variable 'ServiceHubLocationServicePipeName' to '974522f1e6' in the "/Users/MAC/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-controller.darwin-x64/Microsoft.VisualStudio.Code.ServiceController" process.
+09/30/2026 23:57:59 Brasilia Standard Time : Information : Attempting to connect to location service pipe at '974522f1e6'.
+09/30/2026 23:58:00 Brasilia Standard Time : Information : Hub controller started. PID 19815

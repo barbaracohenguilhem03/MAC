@@ -1,0 +1,17 @@
+﻿09/28/2026 21:10:42 Brasilia Standard Time : Information : Local timezone is (UTC-03:00) Brasilia Standard Time (São Paulo)
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 3 :Listening started.
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 7 :{"id":2,"method":"handshake"}
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 6 :Received request "2" for method "handshake".
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 9 :Invoking Microsoft.ServiceHub.Framework.IRemoteServiceBroker.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken)
+09/28/2026 21:10:42 Brasilia Standard Time : Start : handshake
+09/28/2026 21:10:42 Brasilia Standard Time : Stop : handshake
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 8 :{"id":2}
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 7 :{"id":3,"method":"requestServiceChannel"}
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 6 :Received request "3" for method "requestServiceChannel".
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 9 :Invoking Microsoft.ServiceHub.Framework.IRemoteServiceBroker.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+09/28/2026 21:10:42 Brasilia Standard Time : Transfer : Transfer, relatedActivityId=adaf71ab-2a59-4034-a1da-fe7c7a2c711c
+09/28/2026 21:10:42 Brasilia Standard Time : Start : requestServiceChannel
+09/28/2026 21:10:42 Brasilia Standard Time : Stop : requestServiceChannel
+09/28/2026 21:10:42 Brasilia Standard Time : Transfer : Transfer, relatedActivityId=9d2ade91-f1b8-4dff-93e1-c02861cdc0ef
+09/28/2026 21:10:42 Brasilia Standard Time: Information : 8 :{"id":3}
+09/28/2026 21:29:35 Brasilia Standard Time: Information : 13 :Connection closing (RemotePartyTerminated: Reached end of stream.). 

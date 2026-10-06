@@ -1,0 +1,7 @@
+﻿09/28/2026 21:10:41 hora estándar de Brasilia : Information : Local timezone is (UTC-03:00) hora estándar de Brasilia (São Paulo)
+09/28/2026 21:10:42 hora estándar de Brasilia: Information : 3 :Listening started.
+09/28/2026 21:29:35 hora estándar de Brasilia : Information : Microsoft.VisualStudio.ProjectSystem.ProjectActivationService read: end of stream
+09/28/2026 21:29:35 hora estándar de Brasilia: Information : 13 :Connection closing (RemotePartyTerminated: Reached end of stream.). 
+09/28/2026 21:29:35 hora estándar de Brasilia : Information : Waiting for 'Microsoft.VisualStudio.ProjectSystem.ProjectActivationService' instance to complete its completionTask.
+09/28/2026 21:29:35 hora estándar de Brasilia : Information : Disposed 'Microsoft.VisualStudio.ProjectSystem.ProjectActivationService' via 'completionTask' method.
+09/28/2026 21:29:35 hora estándar de Brasilia : Information : Finishing shutting down service: Microsoft.VisualStudio.ProjectSystem.ProjectActivationService.
